@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "outFile": "dist/index.js",
+        "lib": [
+            "DOM",
+            "ES6",
+            "DOM.Iterable",
+            "ScriptHost"
+        ]
+    },
+    "files": [
+        "src/constants.ts",
+        "src/helpers.ts",
+        "src/state.ts",
+        "src/ball.ts",
+        "src/index.ts"
+    ]
+}

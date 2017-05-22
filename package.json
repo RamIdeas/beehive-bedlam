@@ -1,0 +1,15 @@
+{
+  "name": "behive-bedlam",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^2.1.2",
+    "typescript": "^2.1.4"
+  },
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch",
+    "serve": "serve -c 0"
+  }
+}
